@@ -1,0 +1,21 @@
+venv/
+__pycache__/
+*.pyc
+.env
+models/
+
+*.jpg
+*.jpeg
+*.png
+
+featureMatch.py
+featurematchlive.py
+live.py
+livecam.py
+livecamdem.py
+numpyttl.py
+opencvttl.py
+Screenshot (88).png
+tempCodeRunnerFile.py
+templateMatch.py
+facereg.py
